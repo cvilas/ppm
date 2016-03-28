@@ -1,0 +1,6 @@
+This directory contains code developed for my Machine Vision class projects.
+
+1. Makefiles are now OK.
+2. Need to check PPM and ConvolutionMatrix class for errors/bugs.
+3. Same goes for examples.
+4. Optimization issues. Some functions take too much time. Example: paintFill()

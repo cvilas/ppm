@@ -1,0 +1,19 @@
+% TP FP totalHits errorLevel
+TP(1)=2; FP(1)=0; totalMatches(1)=2; errorLevel(1)=10;
+TP(2)=3; FP(2)=0; totalMatches(2)=3; errorLevel(2)=12;
+TP(3)=3; FP(3)=0; totalMatches(3)=3; errorLevel(3)=14;
+TP(4)=3; FP(4)=0; totalMatches(4)=3; errorLevel(4)=16;
+TP(5)=4; FP(5)=0; totalMatches(5)=4; errorLevel(5)=18;
+TP(6)=4; FP(6)=0; totalMatches(6)=4; errorLevel(6)=20;
+TP(7)=8; FP(7)=0; totalMatches(7)=8; errorLevel(7)=22;
+TP(8)=10; FP(8)=0; totalMatches(8)=10; errorLevel(8)=24;
+TP(9)=10; FP(9)=1; totalMatches(9)=11; errorLevel(9)=26;
+TP(10)=11; FP(10)=1; totalMatches(10)=12; errorLevel(10)=28;
+TP(11)=14; FP(11)=6; totalMatches(11)=20; errorLevel(11)=30;
+TP(12)=14; FP(12)=15; totalMatches(12)=29; errorLevel(12)=32;
+TP(13)=16; FP(13)=24; totalMatches(13)=40; errorLevel(13)=34;
+TP(14)=17; FP(14)=37; totalMatches(14)=54; errorLevel(14)=36;
+TP(15)=17; FP(15)=57; totalMatches(15)=74; errorLevel(15)=38;
+TP(16)=17; FP(16)=71; totalMatches(16)=88; errorLevel(16)=40;
+TP(17)=17; FP(17)=90; totalMatches(17)=107; errorLevel(17)=42;
+T
